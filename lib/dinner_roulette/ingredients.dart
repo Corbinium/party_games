@@ -5,7 +5,8 @@ List<String> proteins = [
   'Fish',
   'Tofu',
   'Lentils',
-  'Beans'
+  'Beans',
+  'Shrimp'
 ];
 
 List<String> vegetables = [
@@ -15,14 +16,24 @@ List<String> vegetables = [
   'Peppers',
   'Zucchini',
   'Mushrooms',
-  'Green Beans'
+  'Green Beans',
+  'Onions',
+  'Asparagus',
+  'Cauliflower',
+  'Corn',
+  'Peas',
+  'Brussels Sprouts',
+  'Tomatoes',
 ];
 
 List<String> carbs = [
   'Rice',
-  'Pasta',
+  'Pasta/Noodles',
   'Quinoa',
   'Potatoes',
   'Bread',
-  'Couscous'
+  'Couscous',
+  'Sweet Potatoes',
+  'Grits',
+  'Polenta'
 ];
