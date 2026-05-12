@@ -57153,10 +57153,10 @@ s=A.ahA(p,p,p,p,p,p,p,p,p,p,p,p,B.yH,p,p,p,p,p,B.K8,p)
 return A.aat(o,A.y4(A.LE(A.d([B.zc,B.uz,B.LE,B.uA,r,B.uA,new A.za(!0,q.gTV(),p,p,p,s,B.a3,p,!1,p,p,new A.EL(B.LG,B.zb,s,p,p),p)],t.F),B.aR,B.p2),p,p))}}
 A.a_s.prototype={
 $0(){var s,r=this.a,q=r.d
-r.e=$.aoY[q.xs(7)]
+r.e=$.aoY[q.xs(8)]
 s=this.b
 r.f=A.fj(s,0,A.jG(2,"count",t.S),A.Y(s).c).cP(0)
-r.r=$.anR[q.xs(6)]},
+r.r=$.anR[q.xs(9)]},
 $S:0}
 A.zM.prototype={
 P(a){var s=null,r=A.at(a).ax,q=r.y2,p=t.F
@@ -61671,9 +61671,9 @@ $.a5N=-9007199254740992
 $.a6A=!0
 $.a6z=!1
 $.la=A.d([],A.ac("t<hR>"))
-$.aoY=A.d(["Chicken","Beef","Pork","Fish","Tofu","Lentils","Beans"],t.s)
-$.apg=A.d(["Broccoli","Carrots","Spinach","Peppers","Zucchini","Mushrooms","Green Beans"],t.s)
-$.anR=A.d(["Rice","Pasta","Quinoa","Potatoes","Bread","Couscous"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+$.aoY=A.d(["Chicken","Beef","Pork","Fish","Tofu","Lentils","Beans","Shrimp"],t.s)
+$.apg=A.d(["Broccoli","Carrots","Spinach","Peppers","Zucchini","Mushrooms","Green Beans","Onions","Asparagus","Cauliflower","Corn","Peas","Brussels Sprouts","Tomatoes"],t.s)
+$.anR=A.d(["Rice","Pasta/Noodles","Quinoa","Potatoes","Bread","Couscous","Sweet Potatoes","Grits","Polenta"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"asa","oO",()=>A.u(A.u(A.Z(),"ClipOp"),"Intersect"))
 s($,"asU","afv",()=>{var q="FontWeight"
 return A.d([A.u(A.u(A.Z(),q),"Thin"),A.u(A.u(A.Z(),q),"ExtraLight"),A.u(A.u(A.Z(),q),"Light"),A.u(A.u(A.Z(),q),"Normal"),A.u(A.u(A.Z(),q),"Medium"),A.u(A.u(A.Z(),q),"SemiBold"),A.u(A.u(A.Z(),q),"Bold"),A.u(A.u(A.Z(),q),"ExtraBold"),A.u(A.u(A.Z(),q),"ExtraBlack")],t.O)})
